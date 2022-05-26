@@ -54,7 +54,7 @@ setup(
         'do_time',
     ],                                                           # 关键字
     install_requires=[
-        'ujson==1.35',
+        'ujson==5.2.0',
         'xlwt>=1.3.0,<=2.0.0',
         'openpyxl>=2.6.2,<=3.0.0',
     ],                                                           # 指定需要安装的依赖
